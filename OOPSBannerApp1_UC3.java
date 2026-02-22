@@ -3,7 +3,7 @@
  * @version 2
  */
 
-public class OOPSBannerApp12 {
+public class OOPSBannerApp1_UC3 {
 
     public static void main(String[] args) {
 
